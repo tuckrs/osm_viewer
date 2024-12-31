@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+generated_maps/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
